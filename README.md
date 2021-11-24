@@ -6,7 +6,6 @@ A mini project in C language using ncurses.
  Badge  | status 
  ------------- | ------------- 
 | Build  | [![Linux C/C++ Build CI](https://github.com/Nitin994644/M1_game_snake/actions/workflows/build.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/build.yml)  |
-
 | Unity test  | [![Unit Testing - Unity](https://github.com/Nitin994644/M1_game_snake/actions/workflows/Unity_test.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/Unity_test.yml)  
 
 | CI  | [![CI](https://github.com/Nitin994644/M1_game_snake/actions/workflows/coverage.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/coverage.yml)  |
