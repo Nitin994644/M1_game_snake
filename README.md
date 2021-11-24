@@ -39,7 +39,7 @@ Folder |	Description
 
 SF_ID |	Name |	Features |	Issues Raised |	Issues Solved |	No. of Test Cases |	No. of Test Cases Passing
 ----- | -------| ------|-------|----------|-----------|--------
-260757 |	Sarthak Naithani |	All |	1 |	0 |	8 |	8
+40020811 |	Nitin Rathore |	All |	1 |	0 |	8 |	8
 
 ## Challenges Faced and How it was overcome
 Challenge Faced |	Method to overcome
