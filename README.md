@@ -5,13 +5,17 @@ A mini project in C language using ncurses.
  
  Badge  | status 
  ------------- | ------------- 
-| Build  | [![Linux C/C++ Build CI](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/build.yml/badge.svg)](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/build.yml)  |
-| Unity test  | [![Unit Testing - Unity](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/Unity_test.yml/badge.svg)](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/Unity_test.yml)  |
-| Codacy  | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dfcffbfad3d541a5bf75229aa48bc66a)](https://www.codacy.com/gh/sarthaknaithani/C_MiniProject_LTTS/dashgame?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sarthaknaithani/C_MiniProject_LTTS&amp;utm_campaign=Badge_Grade) |
-| CI  | [![CI](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/coverage.yml/badge.svg)](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/coverage.yml)  |
-| Git Inspector  | [![Contribution Check - Git Inspector](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/git_inspector.yml)  |
-| CPP Check  | [![Code Quality - Static Code - Cppcheck](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/cpp_check.yml)  |
-| Code Coverage | [![CI-Coverage](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/codecoverage.yml/badge.svg)](https://github.com/sarthaknaithani/C_MiniProject_LTTS/actions/workflows/codecoverage.yml) |
+| Build  | [![Linux C/C++ Build CI](https://github.com/Nitin994644/M1_game_snake/actions/workflows/build.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/build.yml)  |
+
+| Unity test  | [![Unit Testing - Unity](https://github.com/Nitin994644/M1_game_snake/actions/workflows/Unity_test.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/Unity_test.yml)  
+
+| CI  | [![CI](https://github.com/Nitin994644/M1_game_snake/actions/workflows/coverage.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/coverage.yml)  |
+
+| Git Inspector  | [![Contribution Check - Git Inspector](https://github.com/Nitin994644/M1_game_snake/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/git_inspector.yml)  |
+
+| CPP Check  | [![Code Quality - Static Code - Cppcheck](https://github.com/Nitin994644/M1_game_snake/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/cpp_check.yml)  |
+
+| Code Coverage | [![CI-Coverage](https://github.com/Nitin994644/M1_game_snake/actions/workflows/codecoverage.yml/badge.svg)](https://github.com/Nitin994644/M1_game_snake/actions/workflows/codecoverage.yml) |
 
 
 ### Changes made that are more than 100 lines
