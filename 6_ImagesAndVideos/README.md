@@ -1,2 +1,2 @@
 # SNAKE GAME RUNNING 
-![Screenshot (21)](https://user-images.githubusercontent.com/39693903/114954588-8f289e00-9e78-11eb-9991-d03469b4dcc6.png)
+![Screenshot (21)](https://github.com/Nitin994644/M1_game_snake/blob/main/6_ImagesAndVideos/gui.jpeg)
